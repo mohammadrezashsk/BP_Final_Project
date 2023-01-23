@@ -1,0 +1,1 @@
+('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'UserNae'. (207) (SQLExecDirectW)") 2022-12-29
